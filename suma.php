@@ -20,4 +20,8 @@
 $suma = suma (24,42);
 echo $suma;
 
+$suma2 = suma (245,42);
+echo $suma2;
+
+
 ?>
