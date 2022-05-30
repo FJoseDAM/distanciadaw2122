@@ -17,10 +17,13 @@
 
   }
 
-$resta = resta (24,42);
+$resta = resta (120,42);
 echo $resta;
 
 $resta2 = resta (300,42);
 echo $resta2;
+
+$resta3 = resta (300,418);
+echo $resta;
 
 ?>

@@ -23,5 +23,7 @@ echo $suma;
 $suma2 = suma (245,42);
 echo $suma2;
 
+$suma3 = suma (245,425);
+echo $suma3;
 
 ?>
